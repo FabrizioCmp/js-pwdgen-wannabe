@@ -1,0 +1,13 @@
+.pswd{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#user_pswd{
+    background-color: orange;
+    border-radius: 10px;
+    border: 2px solid black;
+    padding: 2rem;
+}
